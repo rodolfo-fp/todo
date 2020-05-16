@@ -1,0 +1,9 @@
+# .NET Core Project
+
+bin
+obj
+
+# IDE - VSCode
+.vs
+.vscode
+.history
